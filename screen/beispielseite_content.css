@@ -1,0 +1,48 @@
+	/* body { background: #E9EDF1 ; } */
+	body { background: #96ABC0; } 
+	p { font-family: Verdana, 'DejaVu Sans', Arial, Helvetica, sans-serif; }
+	/* h1, h2, h3, h4, h5, h6 { color:#0044CC; } */
+	
+	.c20l h6 { font-size: 100%; font-family: Verdana, 'DejaVu Sans', Arial, Helvetica, sans-serif; }
+	.c20l ul { font-family: Verdana, 'DejaVu Sans', Arial, Helvetica, sans-serif; }
+	.c20l a { color:#0044CC; }
+	
+	.main h1, .main h2, .main h3, .main h4, .main h5, .main h6 { border-bottom: 1px dotted #0044CC; }
+	
+	.pcfooterheadline { border-bottom: 1px dotted #0044CC; }
+	
+	#breadcrumb a { color: #0044CC; }
+	.subcolumns a { color: #0044CC; }
+	
+	#footer a:hover { color: #0044CC; }
+	
+	a { color:# 0044CC; }
+
+	.registertext:hover { color: #FF8319; }
+	
+	.register #registertext a:hover { color: #FF8319; }
+	.register #username a { color: #FF8319; }
+	
+	.topnav #language a:hover { color: #FF8319; }
+
+	.scrollercontent ul li { background: #FF8319; }
+
+	#schaufenster a { color: #FF8319; }
+	#schaufenster ul li:before { color: #FF8319; }
+	#schaufenster ul li a { color: #FF8319; }
+	
+	#teaser { background: #FF8319 top left no-repeat; }
+	
+	.menu ul li a { background: #FF8319;  }
+	.menu ul li a:visited 	{  background: #FF8319; }	
+	
+	.menu ul li a:hover 	{ background: #FF8319; }
+
+	.menu ul ul a.drop:hover{ background:#FF8319; }
+	.menu ul ul :hover > a.drop { background:#FF8319; }
+	.menu ul ul ul a:hover {background:#FF8319; }
+
+	.menu ul ul ul a:hover {background:#FF8319; }
+
+	.menu ul ul a:hover 	{ background: #FF8319; }
+	.menu ul ul :hover > a 	{ background: #FF8319; }
